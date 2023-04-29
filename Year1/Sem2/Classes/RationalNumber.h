@@ -39,6 +39,8 @@ class RationalNumber
 
         int getDenominator();
 
+        bool isLess(RationalNumber a, RationalNumber b);
+
     private:
         int n, N;
 };
