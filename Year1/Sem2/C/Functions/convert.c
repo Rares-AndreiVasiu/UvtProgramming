@@ -17,6 +17,4 @@ void convert(int n)
     {
         printf("%d", bin[j]);
     }
-  
-    return 0;
 }
